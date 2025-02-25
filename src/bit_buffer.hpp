@@ -2,7 +2,6 @@
 #define BIT_BUFFER_HPP_
 
 #include <stdlib.h>
-#include <unistd.h>
 #include <math.h>
 
 #include <ctype.h>
